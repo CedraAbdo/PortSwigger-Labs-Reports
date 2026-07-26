@@ -1,10 +1,12 @@
-## 🎯 Why this repository? (Purpose)
-This repository isn't just a bunch of files thrown on GitHub, it's:
-- 📖 **My Daily Progress Log**: Every day I learn something new, I write it down here (mistakes, successes, new commands). 
-- 🗺️ **My Roadmap**: I define my goals and exactly where I’ve reached, so I don’t get lost in the sea of information.
-- 🧠 **My Memory Vault**: Instead of forgetting commands and concepts after a week, I go back to this repository and review.
-- 📋 **My Skill Profile**: In the future, anyone (a coach, colleague, or recruiter) who visits here will know exactly my level of skills and practical experience.
-- 🔥 **Motivation to Keep Going**: When I see that I’ve filled this repository with information month after month, it boosts my enthusiasm to keep going.
+## 🎯 Why this repository?
+
+This repository is **the compass and memory** of my journey in cybersecurity, and its goals in short:
+
+- 📖 **Daily practical documentation**: I record every new command I learn (from basic Linux commands to exploitation tools in Metasploit), my mistakes, and their solutions.
+- 🗺️ **Clear roadmap**: I specify exactly where I reached in my learning (starting from network basics and protocols, going through information gathering (OSINT), and ending with vulnerability discovery).
+- 🛠️ **Quick personal reference**: I put summaries of my favorite tools (Nmap, Netdiscover, Google Dorking, Sherlock, Subfinder) to refer back to instead of searching again.
+- 📜 **Skill ID card**: This repository reflects my actual progress, for any colleague, trainer, or recruiter who wants to know my real level.
+
 ---
 
-> 💡 Note for followers: If you're a beginner like me, I hope you find in my experiences something that inspires you or warns you about mistakes you might make. And if you're an expert, I would be happy for any advice you leave me on the Issues page!
+> 💡 **Note**: If you're a beginner, I hope my experiences help you. And if you're an expert, your opinion matters to me in the Issues page!
